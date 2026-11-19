@@ -20,6 +20,10 @@ projeler üretiyorum ve her projede yeni bir şey öğrenmeye çalışıyorum.
 Hasta, doktor ve sekreter rolleri olan randevu uygulaması. Parametreli sorgular, transaction,
 girdi doğrulama ve uçtan uca testlerle geliştirildi; bulunan hatalar ve çözümleri adım adım belgelendi.
 
+**[Personel Kayıt Sistemi](https://github.com/Rogesv1/personel-kayit-sistemi)** · C#, Windows Forms, SQL Server
+Personel ekleme, güncelleme, onaylı silme ve istatistikler. Girdi doğrulama, parametreli sorgular
+ve uçtan uca testlerle düzenlendi; hatalar ve çözümleri belgelendi.
+
 **[Block 3 — Mobil Strateji Oyunu](https://github.com/Rogesv1/block3-oyun-tanitim)** · Kotlin, Jetpack Compose, three.js, Firebase
 Duvar örerek rakibin yolunu kestiğin sıra tabanlı oyun: 3D arenalar, 5 seviyeli yapay zekâ,
 Google ile giriş, bulut kaydı ve liderlik tablosu. *(Geliştirme sürüyor, kaynak kodu şimdilik gizli.)*
