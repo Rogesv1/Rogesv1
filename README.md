@@ -28,8 +28,11 @@ ve uçtan uca testlerle düzenlendi; hatalar ve çözümleri belgelendi.
 Duvar örerek rakibin yolunu kestiğin sıra tabanlı oyun: 3D arenalar, 5 seviyeli yapay zekâ,
 Google ile giriş, bulut kaydı ve liderlik tablosu. *(Geliştirme sürüyor, kaynak kodu şimdilik gizli.)*
 
-**VetAI** · Planlama aşamasında
-Veteriner hekimler ve hayvan sahipleri için yapay zekâ destekli bir uygulama fikri.
+**[VetAI — Evcil Hayvan Sağlık Asistanı](https://github.com/Rogesv1/vetai-tanitim)** · React Native, Expo, TypeScript, Claude API
+Günlük sağlık check-in'i ve sağlık skoru, aşı/ilaç/randevu hatırlatıcıları, Türkçe AI veteriner sohbeti,
+sokak hayvanı haritası ve sahiplendirme ilanları. *(Geliştirme sürüyor, kaynak kodu şimdilik gizli.)*
+
+<img src="https://raw.githubusercontent.com/Rogesv1/vetai-tanitim/main/screenshots/home.png" width="160"> <img src="https://raw.githubusercontent.com/Rogesv1/vetai-tanitim/main/screenshots/chat.png" width="160"> <img src="https://raw.githubusercontent.com/Rogesv1/vetai-tanitim/main/screenshots/vaccines.png" width="160">
 
 ### 🤝 Çalışma şeklim
 
